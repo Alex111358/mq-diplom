@@ -1072,8 +1072,8 @@ footer {
   .list-menu {
     display: none;
     position: fixed;
-    right: 20px;
-    top: 10px;
+    right: 65px;
+    top: 30px;
   }
 
   .burger-check:checked+.burger-menu+.list-menu {
