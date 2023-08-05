@@ -956,7 +956,7 @@ footer {
 
 @media (min-width: 641px) and (max-width: 1199px) {
   header {
-    background-image: url(/images/banner-bg-tablet.jpg);
+    background-image: url(../images/banner-bg-tablet.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-left: 80px;
@@ -1041,7 +1041,7 @@ footer {
 
 @media (max-width: 640px) {
   header {
-    background-image: url(/images/banner-mobile.jpg);
+    background-image: url(../images/banner-mobile.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
