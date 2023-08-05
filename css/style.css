@@ -164,7 +164,7 @@ header::before {
 
 
 .trend-garden {
-  background-image: url(/images/trend1.jpg);
+  background-image: url(../images/trend1.jpg);
   background-color: #888888;
   height: 320px;
   z-index: 1;
@@ -217,7 +217,7 @@ header::before {
 }
 
 .trend-cheese {
-  background-image: url(/images/trend2.jpg);
+  background-image: url(../images/trend2.jpg);
   background-color: #888888;
   min-height: 320px;
   z-index: 1;
@@ -255,7 +255,7 @@ header::before {
 }
 
 .trend-mountains {
-  background-image: url(/images/trend3.jpg);
+  background-image: url(../images/trend3.jpg);
   background-color: #888888;
   height: 320px;
   z-index: 1;
@@ -278,7 +278,7 @@ header::before {
 }
 
 .trend-lemon {
-  background-image: url(/images/trend4.jpg);
+  background-image: url(../images/trend4.jpg);
   background-color: #888888;
   height: 320px;
   z-index: 1;
