@@ -164,7 +164,7 @@ header::before {
 
 
 .trend-garden {
-  background-image: url(images/trend1.jpg);
+  background-image: url(../images/trend1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
